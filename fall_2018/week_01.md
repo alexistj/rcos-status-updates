@@ -1,22 +1,12 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Got PyCharm and github/git set up.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+Ask about the display we will be using for the sorter, and understand how to modify the rasberry pi with the packages we need without causing erros.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
+I need to see the demo run more so I can properly document how to run it on the terminal line, then apply a UI.
 ## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
